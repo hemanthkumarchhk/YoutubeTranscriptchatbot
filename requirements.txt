@@ -1,0 +1,9 @@
+streamlit
+youtube-transcript-api
+openai
+faiss-cpu
+sentence-transformers
+fpdf
+python-docx
+python-dotenv
+tqdm
